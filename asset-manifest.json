@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Student-Grievance-Portal/static/css/main.1b477d4c.css",
-    "main.js": "/Student-Grievance-Portal/static/js/main.0e4bba3b.js",
+    "main.js": "/Student-Grievance-Portal/static/js/main.3805e9bd.js",
     "static/js/453.ed3810f9.chunk.js": "/Student-Grievance-Portal/static/js/453.ed3810f9.chunk.js",
     "index.html": "/Student-Grievance-Portal/index.html",
     "main.1b477d4c.css.map": "/Student-Grievance-Portal/static/css/main.1b477d4c.css.map",
-    "main.0e4bba3b.js.map": "/Student-Grievance-Portal/static/js/main.0e4bba3b.js.map",
+    "main.3805e9bd.js.map": "/Student-Grievance-Portal/static/js/main.3805e9bd.js.map",
     "453.ed3810f9.chunk.js.map": "/Student-Grievance-Portal/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b477d4c.css",
-    "static/js/main.0e4bba3b.js"
+    "static/js/main.3805e9bd.js"
   ]
 }
